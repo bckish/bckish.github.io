@@ -1,0 +1,11 @@
+title: Kishore Billu
+logo: "/profile.png?raw=true" 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Data Analytics and Engineering
+   <br><br>
+  <a href="mailto:sriyanka2404@gmail.com">sriyanka2404@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/saisriyanka/">LinkedIn Profile</a>
+  <br>
+  <a href="https://public.tableau.com/app/profile/sai.sriyanka/vizzes">Tableau Profile</a> 
+theme: jekyll-theme-minimal
