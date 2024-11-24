@@ -10,4 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.credly.com/users/bckishore/">Credly Profile</a>
   <br>
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+#theme: jekyll-theme-modernist
