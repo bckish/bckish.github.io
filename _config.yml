@@ -11,4 +11,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
 
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
