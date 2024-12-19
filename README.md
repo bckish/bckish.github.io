@@ -6,7 +6,7 @@
 
 ---
 
-#### Technical Skills: 
+## Technical Skills: 
 <p align='justify'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="auto" height="50" style="margin-right: 30px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="auto" height="50" style="margin-right: 30px;"/>
