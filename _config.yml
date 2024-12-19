@@ -1,7 +1,5 @@
 title: Kishore Billu
-#logo: "/profile.png?raw=true" 
-logo: "/profile.png?raw=true" style="max-width: 100px; height: auto;"
-
+logo: "/profile.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Cloud and DevOps Engineer
    <br><br>
@@ -12,5 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.credly.com/users/bckishore/">Credly Profile</a>
   <br>
 
-theme: jekyll-theme-minimal
-#theme: jekyll-theme-modernist
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
