@@ -1,5 +1,7 @@
 title: Kishore Billu
-logo: "/profile.png?raw=true" 
+#logo: "/profile.png?raw=true" 
+logo: "/profile.png?raw=true" style="max-width: 100px; height: auto;"
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Cloud and DevOps Engineer
    <br><br>
