@@ -84,45 +84,45 @@
 ## Projects
 **AWS Cloud Migration and Optimization**
  
-- <p align='justify'>Migrated a legacy web application to AWS using the **Lift-and-Shift** approach. Focused on optimizing AWS services like **EC2**, **S3**, and **RDS** for better performance, cost efficiency, and scalability. The migration was executed with minimal downtime, ensuring a seamless transition to the cloud environment.</p>
+- <p align='justify'>Migrated a legacy web application to AWS using the Lift-and-Shift approach. Focused on optimizing AWS services like EC2, S3, and RDS for better performance, cost efficiency, and scalability. The migration was executed with minimal downtime, ensuring a seamless transition to the cloud environment.</p>
 - <p align='justify'>Key Technologies:  - AWS EC2, S3, RDS and Lift-and-Shift Strategy </p>
 
 **Re-architecting WebApp for Cloud-Native on AWS**
 
 
-- <p align='justify'>Re-architected an existing web application to fully leverage AWS **cloud-native** services such as **Lambda**, **S3**, and **DynamoDB**. This re-architecture improved scalability, reduced operational overhead, and enhanced overall performance and security of the application.</p>
+- <p align='justify'>Re-architected an existing web application to fully leverage AWS cloud-native services such as Lambda, S3, and DynamoDB. This re-architecture improved scalability, reduced operational overhead, and enhanced overall performance and security of the application.</p>
 
 - <p align='justify'>Key Technologies:  - AWS Lambda  - AWS S3  - AWS DynamoDB  - Cloud-Native Architecture </p>
 
 **Containerization and CI/CD Automation for Java Applications**
  
-Containerized a legacy **Java** application using **Docker**, allowing for more portable and consistent deployments. Automated **CI/CD** pipelines using **Jenkins**, **Nexus**, **SonarQube**, and **Slack** for continuous integration, testing, and deployment, ensuring streamlined workflows across multiple environments.
+- <p align='justify'>Containerized a legacy Java application using Docker, allowing for more portable and consistent deployments. Automated CI/CD pipelines using Jenkins, Nexus, SonarQube, and Slack for continuous integration, testing, and deployment, ensuring streamlined workflows across multiple environments.</p>
 
-**Key Technologies**:  - Docker  - Jenkins  - Nexus  - SonarQube  - Slack  - Java  - CI/CD Automation
+- <p align='justify'>Key Technologies:  - Docker  - Jenkins  - Nexus  - SonarQube  - Slack  - Java  - CI/CD Automation </p>
 
 **Continuous Integration and Deployment with AWS**
   
-Implemented a robust **CI** pipeline on **AWS** using **AWS CodeBuild** and **CodePipeline**. This pipeline automated the entire integration process, ensuring faster deployments of Java web applications. Also integrated **Elastic Beanstalk** and **CodeDeploy** for continuous deployment with rollback capabilities, improving release cycles.
+- <p align='justify'>Implemented a robust CI pipeline on AWS using AWS CodeBuild and CodePipeline. This pipeline automated the entire integration process, ensuring faster deployments of Java web applications. Also integrated Elastic Beanstalk and CodeDeploy for continuous deployment with rollback capabilities, improving release cycles.</p>
 
-**Key Technologies**:  - AWS CodeBuild  - AWS CodePipeline  - Elastic Beanstalk  - AWS CodeDeploy  - Jenkins  - CI/CD Automation
+- <p align='justify'>Key Technologies:  - AWS CodeBuild  - AWS CodePipeline  - Elastic Beanstalk  - AWS CodeDeploy  - Jenkins  - CI/CD Automation </p>
 
 **Kubernetes-Based Deployment and Infrastructure Management**
  
-Set up and managed **Kubernetes** clusters in **production environments** to improve application scalability, resource optimization, and high availability. Deployed **Java applications** on Kubernetes using **Helm**, ensuring efficient scaling, load balancing, and minimal downtime during deployment.
+- <p align='justify'>Set up and managed Kubernetes clusters in production environments to improve application scalability, resource optimization, and high availability. Deployed Java applications on Kubernetes using Helm, ensuring efficient scaling, load balancing, and minimal downtime during deployment.</p>
 
-**Key Technologies**:  - Kubernetes  - Helm  - Docker  - Java  - Auto-scaling  - High Availability
+- <p align='justify'>Key Technologies:  - Kubernetes  - Helm  - Docker  - Java  - Auto-scaling  - High Availability </p>
 
 **GitOps for Infrastructure and Application Automation**
  
-Adopted **GitOps** principles for infrastructure and application management, leveraging **ArgoCD** and **FluxCD** to automate deployment pipelines. This improved security, consistency, and deployment speed, providing a more scalable and repeatable process for managing cloud resources and applications.
+- <p align='justify'>Adopted GitOps principles for infrastructure and application management, leveraging ArgoCD and FluxCD to automate deployment pipelines. This improved security, consistency, and deployment speed, providing a more scalable and repeatable process for managing cloud resources and applications.</p>
 
-**Key Technologies**:  - GitOps  - ArgoCD  - FluxCD  - CI/CD Automation
+- <p align='justify'>Key Technologies:  - GitOps  - ArgoCD  - FluxCD  - CI/CD Automation </p>
 
 **Hybrid Cloud Continuous Delivery Pipeline**
   
-Developed a **hybrid** continuous delivery (CD) pipeline that integrated on-premises and cloud-based resources, allowing for consistent deployment workflows across diverse environments. This solution minimized downtime, reduced risks, and ensured seamless application delivery.
+- <p align='justify'>Developed a hybrid continuous delivery (CD) pipeline that integrated on-premises and cloud-based resources, allowing for consistent deployment workflows across diverse environments. This solution minimized downtime, reduced risks, and ensured seamless application delivery. </p>
 
-**Key Technologies**:  - Hybrid Cloud  - Continuous Delivery (CD)  - Automation  - AWS  - On-premises Integration
+- <p align='justify'>Key Technologies:  - Hybrid Cloud  - Continuous Delivery (CD)  - Automation  - AWS  - On-premises Integration </p>
 
 ## Certificates
 <ul>
