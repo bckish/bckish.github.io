@@ -84,15 +84,15 @@
 ## Projects
 **AWS Cloud Migration and Optimization**
  
-Migrated a legacy web application to AWS using the **Lift-and-Shift** approach. Focused on optimizing AWS services like **EC2**, **S3**, and **RDS** for better performance, cost efficiency, and scalability. The migration was executed with minimal downtime, ensuring a seamless transition to the cloud environment.
-**Key Technologies**:  - AWS EC2, S3, RDS and Lift-and-Shift Strategy
+- <p align='justify'>Migrated a legacy web application to AWS using the **Lift-and-Shift** approach. Focused on optimizing AWS services like **EC2**, **S3**, and **RDS** for better performance, cost efficiency, and scalability. The migration was executed with minimal downtime, ensuring a seamless transition to the cloud environment.</p>
+- <p align='justify'>Key Technologies:  - AWS EC2, S3, RDS and Lift-and-Shift Strategy </p>
 
 **Re-architecting WebApp for Cloud-Native on AWS**
 
 
-Re-architected an existing web application to fully leverage AWS **cloud-native** services such as **Lambda**, **S3**, and **DynamoDB**. This re-architecture improved scalability, reduced operational overhead, and enhanced overall performance and security of the application.
+- <p align='justify'>Re-architected an existing web application to fully leverage AWS **cloud-native** services such as **Lambda**, **S3**, and **DynamoDB**. This re-architecture improved scalability, reduced operational overhead, and enhanced overall performance and security of the application.</p>
 
-**Key Technologies**:  - AWS Lambda  - AWS S3  - AWS DynamoDB  - Cloud-Native Architecture
+- <p align='justify'>Key Technologies:  - AWS Lambda  - AWS S3  - AWS DynamoDB  - Cloud-Native Architecture </p>
 
 **Containerization and CI/CD Automation for Java Applications**
  
