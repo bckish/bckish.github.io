@@ -82,9 +82,17 @@
 </ul>
 
 ## Projects
+## 1. **AWS Cloud Migration and Optimization**
 
+**Description**:  
+Migrated a legacy web application to AWS using the **Lift-and-Shift** approach. Focused on optimizing AWS services like **EC2**, **S3**, and **RDS** for better performance, cost efficiency, and scalability. The migration was executed with minimal downtime, ensuring a seamless transition to the cloud environment.
+
+**Key Technologies**:  
+- AWS EC2, S3, RDS  
+- AWS Migration Services  
+- Lift-and-Shift Strategy
 <ul>
-  <li><p align='justify'><strong>AWS Cloud for WebApp Setup (Lift & Shift)</strong> - Migrated legacy web application to AWS cloud using the lift-and-shift method, ensuring minimal downtime and efficient resource utilization. Optimized AWS EC2, S3, and RDS configurations for improved performance.</p></li>
+  <li><p align='justify'><strong>AWS Cloud Migration and Optimization</strong> - Migrated legacy web application to AWS cloud using the lift-and-shift method, ensuring minimal downtime and efficient resource utilization. Optimized AWS EC2, S3, and RDS configurations for improved performance.</p></li>
   
   <li><p align='justify'><strong>Re-architecting WebApp on AWS Cloud (Cloud Native)</strong> - Redefined the architecture to take full advantage of AWS native services such as Lambda, S3, and DynamoDB, reducing operational overhead and improving scalability.</p></li>
   
