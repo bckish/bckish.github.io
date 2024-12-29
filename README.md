@@ -91,36 +91,80 @@ Migrated a legacy web application to AWS using the **Lift-and-Shift** approach. 
 - AWS EC2, S3, RDS  
 - AWS Migration Services  
 - Lift-and-Shift Strategy
-<ul>
-  <li><p align='justify'><strong>AWS Cloud Migration and Optimization</strong> - Migrated legacy web application to AWS cloud using the lift-and-shift method, ensuring minimal downtime and efficient resource utilization. Optimized AWS EC2, S3, and RDS configurations for improved performance.</p></li>
-  
-  <li><p align='justify'><strong>Re-architecting WebApp on AWS Cloud (Cloud Native)</strong> - Redefined the architecture to take full advantage of AWS native services such as Lambda, S3, and DynamoDB, reducing operational overhead and improving scalability.</p></li>
-  
-  <li><p align='justify'><strong>Containerization of Java Project Using Docker</strong> - Containerized a legacy Java application using Docker, improving portability and simplifying deployment across various environments. Enabled scalability and consistency in testing and production environments.</p></li>
-  
-  <li><p align='justify'><strong>Jenkins Pipelines as Code (Groovy)</strong> - Implemented Jenkins pipelines as code using Groovy scripts, automating build, test, and deployment workflows for efficient CI/CD. Increased pipeline flexibility and reusability for multiple projects.</p></li>
-  
-  <li><p align='justify'><strong>Continuous Integration Using Jenkins, Nexus, SonarQube, and Slack</strong> - Automated CI pipeline with Jenkins, integrating Nexus for artifact management, SonarQube for code quality analysis, and Slack for real-time notifications, ensuring efficient communication and quality assurance.</p></li>
-  
-  <li><p align='justify'><strong>Continuous Integration on AWS Cloud</strong> - Established a robust CI pipeline on AWS using services like CodeBuild and CodePipeline, enabling seamless integration and faster deployment of web applications.</p></li>
-  
-  <li><p align='justify'><strong>Continuous Deployment of Java Web Application</strong> - Implemented continuous deployment for Java web applications, automating deployment to staging and production environments using Jenkins, ensuring quick and reliable release cycles.</p></li>
-  
-  <li><p align='justify'><strong>Continuous Delivery on AWS Cloud (Java Application)</strong> - Leveraged AWS services such as Elastic Beanstalk and CodeDeploy to automate deployment, ensuring efficient delivery pipelines for Java-based applications with robust rollback capabilities.</p></li>
-  
-  <li><p align='justify'><strong>GitHub Actions for CI/CD</strong> - Set up GitHub Actions for automating build, test, and deployment workflows, integrating with Docker and AWS for containerized deployments, enabling faster and more efficient CI/CD pipelines.</p></li>
-  
-  <li><p align='justify'><strong>Kubernetes Setup for Production</strong> - Set up and managed Kubernetes clusters for production environments, optimizing resources and improving application scalability with efficient load balancing and auto-scaling.</p></li>
-  
-  <li><p align='justify'><strong>Java App Deployment on Kubernetes Cluster</strong> - Deployed Java-based applications on Kubernetes, utilizing Helm for streamlined management, and ensuring efficient scaling and high availability in production environments.</p></li>
-  
-  <li><p align='justify'><strong>GitOps Project</strong> - Implemented GitOps for managing infrastructure and application deployments, automating processes with tools like ArgoCD and FluxCD for improved consistency, security, and rapid deployments.</p></li>
-  
-  <li><p align='justify'><strong>Hybrid Continuous Delivery</strong> - Developed a hybrid CD pipeline that integrates on-premises and cloud resources, enabling a seamless delivery process across multiple environments while maintaining consistency and minimizing risks.</p></li>
-  
-  <li><p align='justify'><strong>Ansible for AWS VPC and Complete Stack Setup</strong> - Automated the provisioning of AWS VPC and the deployment of a complete infrastructure stack using Ansible, reducing setup time and ensuring infrastructure consistency across environments.</p></li>
-</ul>
 
+## 2. **Re-architecting WebApp for Cloud-Native on AWS**
+
+**Description**:  
+Re-architected an existing web application to fully leverage AWS **cloud-native** services such as **Lambda**, **S3**, and **DynamoDB**. This re-architecture improved scalability, reduced operational overhead, and enhanced overall performance and security of the application.
+
+**Key Technologies**:  
+- AWS Lambda  
+- AWS S3  
+- AWS DynamoDB  
+- Cloud-Native Architecture
+
+## 3. **Containerization and CI/CD Automation for Java Applications**
+
+**Description**:  
+Containerized a legacy **Java** application using **Docker**, allowing for more portable and consistent deployments. Automated **CI/CD** pipelines using **Jenkins**, **Nexus**, **SonarQube**, and **Slack** for continuous integration, testing, and deployment, ensuring streamlined workflows across multiple environments.
+
+**Key Technologies**:  
+- Docker  
+- Jenkins  
+- Nexus  
+- SonarQube  
+- Slack  
+- Java  
+- CI/CD Automation
+
+## 4. **Continuous Integration and Deployment with AWS**
+
+**Description**:  
+Implemented a robust **CI** pipeline on **AWS** using **AWS CodeBuild** and **CodePipeline**. This pipeline automated the entire integration process, ensuring faster deployments of Java web applications. Also integrated **Elastic Beanstalk** and **CodeDeploy** for continuous deployment with rollback capabilities, improving release cycles.
+
+**Key Technologies**:  
+- AWS CodeBuild  
+- AWS CodePipeline  
+- Elastic Beanstalk  
+- AWS CodeDeploy  
+- Jenkins  
+- CI/CD Automation
+
+## 5. **Kubernetes-Based Deployment and Infrastructure Management**
+
+**Description**:  
+Set up and managed **Kubernetes** clusters in **production environments** to improve application scalability, resource optimization, and high availability. Deployed **Java applications** on Kubernetes using **Helm**, ensuring efficient scaling, load balancing, and minimal downtime during deployment.
+
+**Key Technologies**:  
+- Kubernetes  
+- Helm  
+- Docker  
+- Java  
+- Auto-scaling  
+- High Availability
+
+## 6. **GitOps for Infrastructure and Application Automation**
+
+**Description**:  
+Adopted **GitOps** principles for infrastructure and application management, leveraging **ArgoCD** and **FluxCD** to automate deployment pipelines. This improved security, consistency, and deployment speed, providing a more scalable and repeatable process for managing cloud resources and applications.
+
+**Key Technologies**:  
+- GitOps  
+- ArgoCD  
+- FluxCD  
+- CI/CD Automation
+
+## 7. **Hybrid Cloud Continuous Delivery Pipeline**
+
+**Description**:  
+Developed a **hybrid** continuous delivery (CD) pipeline that integrated on-premises and cloud-based resources, allowing for consistent deployment workflows across diverse environments. This solution minimized downtime, reduced risks, and ensured seamless application delivery.
+
+**Key Technologies**:  
+- Hybrid Cloud  
+- Continuous Delivery (CD)  
+- Automation  
+- AWS  
+- On-premises Integration
 
 ## Certificates
 <ul>
@@ -131,8 +175,8 @@ Migrated a legacy web application to AWS using the **Lift-and-Shift** approach. 
 </ul>
 
 ## Education
-- M.Sc. - Optical Technologies | Leibniz Universität Hannover (_September 2019_)  |  Grade: 2.0					       		
-- B.Tech. - Mechanical Engineering | Rajiv Gandhi University of Knowledge and Technologies (_May 2016_)  |  Grade: 2.25
+- M.Sc. - Optical Technologies | Leibniz Universität Hannover (_September 2019_)  |  Grade: 2.0				       		
+- B.Tech. - Mechanical Engineering | Rajiv Gandhi University of Knowledge and Technologies (_May 2016_)  |  Grade: 2.1
 
 
 ## Languages
